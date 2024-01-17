@@ -18,10 +18,3 @@ BrainBattles is an interactive quiz game that tests your knowledge. Answer a ser
 ## Technology Used:
 - Node.js
 
-
-## License:
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace `[Dheeraj_S](https://github.com/Dheeraj8601)` with your GitHub username or the names and GitHub profiles of the contributors. Feel free to customize it further according to your needs.
